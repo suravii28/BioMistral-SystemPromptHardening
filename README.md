@@ -1,6 +1,6 @@
 <div align="center">
 
-# CascadeGuard
+# Resisting Adversarial Influence in Generative AI
 
 ### Teaching a medical AI to stand its ground
 
